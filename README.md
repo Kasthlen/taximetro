@@ -1,4 +1,4 @@
-# taxímetro
+# Taxímetro
 Primer ejercicio usando python en el modulo 1 del bootcamp de inteligencia artificial 
 
 #  Taxímetro Digital
@@ -23,7 +23,7 @@ Este proyecto implementa un taxímetro digital básico utilizando Python y la li
 3.  **Ejecutar la aplicación:**
     ```bash
     python taximetro_gui.py OR
-    pytthon taximetro_cli.py
+    python taximetro_cli.py
     ```
 
 ## Uso
@@ -40,6 +40,7 @@ Este proyecto implementa un taxímetro digital básico utilizando Python y la li
 Los trayectos finalizados se guardan en el archivo `registros_taximetro.csv` en el mismo directorio de la aplicación.
 
 ## Anexos
+Podras encontrar los entregables como el tablero kanban y para la presentación en los siguientes links:
 
 1. Link trello: https://trello.com/b/EbdpBjcz/taximetro
 2. Link Canva: https://www.canva.com/design/DAGsdyVVvjI/6oURlapBhFPLbrd_XG22sg/edit?utm_content=DAGsdyVVvjI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
