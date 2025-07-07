@@ -22,7 +22,8 @@ Este proyecto implementa un taxímetro digital básico utilizando Python y la li
 2.  **Asegúrate de tener Python instalado.** (Versión recomendada: Python 3.x)
 3.  **Ejecutar la aplicación:**
     ```bash
-    python taximetro_app.py
+    python taximetro_gui.py OR
+    pytthon taximetro_cli.py
     ```
 
 ## Uso
