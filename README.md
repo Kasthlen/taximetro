@@ -1,4 +1,4 @@
-# taximetro
+# taxímetro
 Primer ejercicio usando python en el modulo 1 del bootcamp de inteligencia artificial 
 
 #  Taxímetro Digital
@@ -41,8 +41,8 @@ Los trayectos finalizados se guardan en el archivo `registros_taximetro.csv` en 
 
 ## Anexos
 
-link trello: https://trello.com/b/EbdpBjcz/taximetro
-Link Canva: https://www.canva.com/design/DAGsdyVVvjI/6oURlapBhFPLbrd_XG22sg/edit?utm_content=DAGsdyVVvjI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+1. Link trello: https://trello.com/b/EbdpBjcz/taximetro
+2. Link Canva: https://www.canva.com/design/DAGsdyVVvjI/6oURlapBhFPLbrd_XG22sg/edit?utm_content=DAGsdyVVvjI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Contribución
 
