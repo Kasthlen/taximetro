@@ -15,7 +15,7 @@ ARCHIVO_REGISTROS = "registros_taximetro.csv"
 class TaximetroApp:
     def __init__(self, root): #inicia la app
         self.root = root
-        self.root.title("🟢 Taxímetro Digital")
+        self.root.title("Taxímetro Digital")
 
         # Estado inicial
         self.estado = None
@@ -35,7 +35,7 @@ class TaximetroApp:
         self.btn_parado = tk.Button(btn_frame, text="🛑 Parado", width=12, command=self.parar)
         self.btn_parado.grid(row=0, column=0, padx=5)
 
-        self.btn_movimiento = tk.Button(btn_frame, text="🏃 Movimiento", width=12, command=self.mover)
+        self.btn_movimiento = tk.Button(btn_frame, text="🚕 Movimiento", width=12, command=self.mover)
         self.btn_movimiento.grid(row=0, column=1, padx=5)
 
         self.btn_finalizar = tk.Button(root, text="✅ Finalizar Trayecto", bg="lightgreen", width=25, command=self.finalizar)
